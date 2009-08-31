@@ -2,7 +2,7 @@ Demo
 ====
 
 Look at the source. Not difficult. Here's the 
-(demo)[http://micha.github.com/jquery-tableize/].
+[demo](http://micha.github.com/jquery-tableize/).
 
 HowTo
 =====
